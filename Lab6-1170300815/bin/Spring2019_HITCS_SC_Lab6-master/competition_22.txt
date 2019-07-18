@@ -1,0 +1,6 @@
+ladderNum 10
+pedalNum 20
+timeSpan 4
+monkeyNum 500
+monkeySpan 50
+mostV 8
